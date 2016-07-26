@@ -1,4 +1,3 @@
-<div class="col-md-12"><a id="welcome"></a>
 
 # Welcome
 
@@ -305,7 +304,6 @@ This binds a small express server on localhost:8080 which serves your static ass
 
 > The dev server uses webpack’s watch mode. It also prevents webpack from emitting the resulting files to disk. Instead it keeps and serves the resulting files from memory.
 
-</div>
 
 
 参考：
